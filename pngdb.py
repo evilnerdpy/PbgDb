@@ -5,7 +5,7 @@ class PngDb():
     def __init__(self):
         self.x_resolution =600
         self.y_resolution =500 
-        self.f_content = bytes()
+       
 
     def encode(self ,file_path, name):
 
